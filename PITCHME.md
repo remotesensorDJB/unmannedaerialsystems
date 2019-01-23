@@ -149,25 +149,6 @@
  - Interpreting and capturing spatial data from historic texts |
  - Time series analysis to model and interpret progression of troops during battle |
  - Terrain analysis to understand impact of topography on tactical advantages for Confederate Army |
-<!---
-+++
-### Perryville Battlefield Mapping
-###### Background Information
-- October 8th, 1862
-- Confederate General Braxton Bragg makes camp with his army on Doctor's Creek near Perryville
-- Union Army, led by Gen. Don Carlos Buell, pursues Bragg from the west
-+++
-### Perryville Battlefield Mapping
-###### Background Information
-- Knobs to the west of town provide high ground for defensive positions for Bragg's soldiers
-- Bragg orders attack on Union positions, but Union army uses cloak of hilly terrain to surprise advancing Confederates. 
-- Repeatedly, Union forces retreated before General Bragg's men and established new defensive lines on another ridge.
-+++
-### Perryville Battlefield Mapping
-###### Background Information
-- Depressions and hills were not obvious to soldiers during the battle and led to a series of tragic mistakes by commanders on both sides.
-- Units found themselves in the midst of withering crossfire because the terrain had forced them into an unfavorable position.
-- At the same time, this terrain led to a phenomenon called acoustic shadow. Union General Don Carlos Buell, hence, could not hear the battle from his headquarters and did not send vital reinforcements on time
 +++
 ### Perryville Battlefield Terrain Analysis
 - Using digital terrain data from LiDAR and UAS, recreate the setting of the battle:
@@ -176,7 +157,6 @@
  - How many decibels are created by a 10 lb cannon? Under atmospheric conditions in early October?
  - Can we model the acoustic shadow? 
 +++ 
---->
 ### Perryville UAS Field Operations
 - First large-scale mapping effort by UofL 
 - 2 flights conducted on March 3rd, 2017.
@@ -204,7 +184,6 @@
 ![Perryville Drone Angel](images/perryville_angel.jpg)
 ##### Drone Angel!
 +++
-<!---
 ### Next Steps
 - Refly area using ground control points for increased accuracy
 - Process imagery in Pix4D Mapper Pro
@@ -212,7 +191,7 @@
 - Generate 3D model for terrain analysis
 - Create series of 3D and timeenabled story maps for reinterpretation of battle
 ---
---->
+
 ### UofL Stream Institute 
 ###### Stream Restoration Mapping
 - Collaboration with Speed School Stream Institute
@@ -362,13 +341,13 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 @transition[fade-in fade-out]
 ![KAZAVA Canopy](images/kazava_canopy.jpg | width=70)
 ---
-<!---
+
 ### Next steps
 - Explore RTK GNSS for improved ground control efficiency
 - Explore stairstepped flights to normalize GSD across terrain
 - Explore derivative spatial products and their value to stream restoration research
 - Obtain funding to build capacity for more stream restoration mapping efforts
---->
+
 ### Thanks!
 ##### Any Questions? 
 
