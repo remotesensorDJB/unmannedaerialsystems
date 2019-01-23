@@ -369,7 +369,6 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 - Explore derivative spatial products and their value to stream restoration research
 - Obtain funding to build capacity for more stream restoration mapping efforts
 --->
----
 ### Thanks!
 ##### Any Questions? 
 
