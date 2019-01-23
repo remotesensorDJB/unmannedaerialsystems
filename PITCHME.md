@@ -149,7 +149,6 @@
 +++
 ![Pix4D Animation](https://www.youtube.com/embed/5EWswPe53A8)
 ---
----
 ### UAS Research Group at UofL
 - Small cohort of faculty, staff, and students
 - Fleet of drones:
@@ -212,7 +211,7 @@
 +++ 
 ![Perryville Drone Angel](images/perryville_angel.jpg)
 ##### Drone Angel!
-+++
+---
 ### UofL Stream Institute 
 ###### Stream Restoration Mapping
 - Collaboration with Speed School Stream Institute
@@ -288,7 +287,7 @@ DSM Detail
 ![Stonecoal Contours](images/morehead_contours_zoom.jpg)
 
 1 foot contour lines
-+++
+---
 #### KAZAVA Vulnerability and Adaptation Project
 - Broad objective:
  > Facilitate a broader understanding of how livelihoods, land use, and the environment are changing in a transfrontier conservation area in Southern Africa
