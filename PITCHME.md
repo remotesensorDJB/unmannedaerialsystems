@@ -313,6 +313,7 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 @transition[fade-in fade-out]
 ![KAZAVA Canopy](images/kazava_canopy.jpg | width=70)
 ---
+
 ### Thanks!
 ##### Any Questions? 
 
