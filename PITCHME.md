@@ -236,7 +236,7 @@ Mill Branch, Knox County, KY after stream restoration
 +++
 ![Stonecoal Flight Plan](images/stonecoal_flight.JPG)
 +++
-![Stonecoal Video](https://www.youtube.com/embed/oggkjrZpJgk)
+![Stonecoal Video](https://www.youtube.com/embed/gHZW0ufTZLY)
 +++
 ![Stonecoal Preiew](images/stonecoal_preview.jpg)
 +++
