@@ -184,20 +184,12 @@
 ![Perryville Drone Angel](images/perryville_angel.jpg)
 ##### Drone Angel!
 +++
-### Next Steps
-- Refly area using ground control points for increased accuracy
-- Process imagery in Pix4D Mapper Pro
-- Derive historic vegetation characteristics from maps and texts
-- Generate 3D model for terrain analysis
-- Create series of 3D and timeenabled story maps for reinterpretation of battle
----
-
 ### UofL Stream Institute 
 ###### Stream Restoration Mapping
 - Collaboration with Speed School Stream Institute
 - Stream restoration projects design and build stream and wetland ecosystems
 - Strip existing vegetation from site, dig/reinforce new stream channel, grade floodplain
-- Miitigate erosion, promote healthy vegetation communities, aquatic life
+- Mitigate erosion, promote healthy vegetation communities, aquatic life
 +++
 ![Before restoration](images/stream_rest_b4_sm.jpg)
 
@@ -214,26 +206,6 @@ Mill Branch, Knox County, KY after stream restoration
 - Can low-cost UAS data provide accuracy necessary for precise engineering applications?
  - Horizontal and vertical accuracy of digital elevation product paramount
 +++
-### Early Efforts
-- Moody Lane site in Oldham County
-- Mission flown using a Blade QX4 UAV with a GoPro camera
-- This combo does not encode coordinate information to image EXIF data
-- Even with ground control, resulting image quality was lacking
-- GPS navigation system also of poor reliability
-+++
-![Moody Lane site](images/moody1.JPG)
-+++
-![Moody Lane site](images/moody2.JPG)
-+++
-![Moody Lane site](images/moody3.JPG)
-+++
-![Moody Lane site](images/crash.JPG)
-+++
-![Moody Lane site](images/stream_moody.jpg)
-+++
-![Moody Lane site](images/Animation.gif)
-+++
-### Stream Mapping 2.0
 ##### Stonecoal Branch, Morehead, KY (9 acres)
 ![Stonecoal](images/stonecoal_loc.jpg)
 +++
@@ -241,20 +213,20 @@ Mill Branch, Knox County, KY after stream restoration
 +++
 ![Stonecoal #1](images/DSC_0766.jpg)
 +++
-### Site Characteristics
+##### Site Characteristics
 - 9 acres of narrow upland valley
 - Sparse vegetation around channel/floodplain
 - Mature trees lining restoration site
 - Steep gradient from upvalley end to downvalley end (200ft elevation change)
 +++
-### Challenges to UAS Operations
+##### Challenges to UAS Operations
 - Narrow site necessitates flight high above tallest trees
  - limits potential resolution
 - Steep gradient changes ground sampling distance/resolution
  - SfM software expects consistent GSD throughout image
 - Wooded surrounding area presents risk of equipment loss
 +++
-### Field operations
+##### Field operations
 - Sept 9th, 2017
 - Variable lighting conditions 
  - strong, shifting shadows throughout the day
@@ -341,13 +313,6 @@ https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d
 @transition[fade-in fade-out]
 ![KAZAVA Canopy](images/kazava_canopy.jpg | width=70)
 ---
-
-### Next steps
-- Explore RTK GNSS for improved ground control efficiency
-- Explore stairstepped flights to normalize GSD across terrain
-- Explore derivative spatial products and their value to stream restoration research
-- Obtain funding to build capacity for more stream restoration mapping efforts
-
 ### Thanks!
 ##### Any Questions? 
 
