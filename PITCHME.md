@@ -106,20 +106,49 @@
 +++
 ![parallax](images/parallax.jpg)
 +++
-### Mapping applications of small UAS
+#### Mapping applications of small UAS
 - Generalized processing steps:
-  1. Feature detection/image matching
+  1. Tie-Point detection/image matching
   2. Point cloud generation
   3. Ground Control Point (GCP) specification (optional)
   4. Point cloud densification
   5. Mesh generation
   6. Orthomosaic/Digital Surface Model Generation
 +++
-### Image Processing in Pix4DMapper Pro
-![Ray Cloud](https://4.bp.blogspot.com/-l4DIvz6Q8YQ/WMWS7lKOCMI/AAAAAAAABFI/-K1SItx8s0Y4XbRQlLXPsGlOOSJormMigCLcB/s1600/TyingDownGCPRAYCLOUDSgsadgsdgasdgdsg.png)
+@transition[fade-in fade-out]
+#### SfM Processing: Image Orientation
+![Pix4D 1](images/pix4d_1.JPG)
 +++
-### Image Processing in AgiSoft Photoscan
-![Agisoft](images/agisoft.mp4)
+@transition[fade-in fade-out]
+#### SfM Processing: Image Orientation
+![Pix4D 2](images/pix4d_2.JPG)
++++
+@transition[fade-in fade-out]
+#### SfM Processing: Tie-Point Detection
+![Pix4D 3](images/pix4d_3.JPG)
++++
+@transition[fade-in fade-out]
+#### SfM Processing: Tie-Point Detection
+![Pix4D 4](images/pix4d_4.JPG)
++++
+@transition[fade-in fade-out]
+#### SfM Processing: Point Cloud Densification
+![Pix4D 5](images/pix4d_5.JPG)
++++
+@transition[fade-in fade-out]
+#### SfM Processing: Mesh Generation
+![Pix4D 6](images/pix4d_6.JPG)
++++
+@transition[fade-in fade-out]
+#### SfM Processing: Mesh Generation
+![Pix4D 7](images/pix4d_7.JPG)
++++
+@transition[fade-in fade-out]
+#### SfM Processing: Ortho/DSM Generation
+![Pix4D 8](images/stonecoal_preview.jpg)
++++
+![Pix4D Animation](https://www.youtube.com/embed/5EWswPe53A8)
+---
 ---
 ### UAS Research Group at UofL
 - Small cohort of faculty, staff, and students
@@ -259,9 +288,6 @@ DSM Detail
 ![Stonecoal Contours](images/morehead_contours_zoom.jpg)
 
 1 foot contour lines
-+++
-###### 3D Site Model
-https://www.dronedeploy.com/app2/data/59c9bd7d52db903288ddf60d 
 +++
 #### KAZAVA Vulnerability and Adaptation Project
 - Broad objective:
