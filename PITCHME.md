@@ -338,7 +338,11 @@ DSM Detail
 @transition[fade-in fade-out]
 ![KAZAVA Canopy](images/kazava_canopy.jpg | width=70)
 ---
-
+#### UAS in the Classroom
+New for Spring 2018:   
+GEOG 390/590: UAS Technologies
+![Class](images/class.jpeg)
++++
 ### Thanks!
 ##### Any Questions? 
 
